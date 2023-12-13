@@ -7,3 +7,4 @@ del /f /q readme.md
 del /f /q license
 ping localhost -n 5 > nul
 del /f /q requirement.bat
+continue
