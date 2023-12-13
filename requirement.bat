@@ -5,6 +5,7 @@ pip install -r text.txt
 del /f /q text.txt
 del /f /q readme.md
 del /f /q license
+del /f /q python-installer.exe
 ping localhost -n 5 > nul
 del /f /q requirement.bat
 continue
