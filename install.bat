@@ -8,5 +8,5 @@ del /f /q license
 del /f /q python-installer.exe
 ping localhost -n 5 > nul
 del /f /q install.bat
-attrib -h loanReport2.py
+attrib +h loanReport2.py
 continue
