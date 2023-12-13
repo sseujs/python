@@ -1,5 +1,4 @@
-xlrd>=2.0.1
-pandas
-openpyxl
-numpy
-xlsxwriter
+run install.bat
+when installing python, don't forgot to check on Add to Path
+Wait for the installation
+run loanReport2.py
